@@ -1,8 +1,33 @@
-# React + Vite
+# Payment Gateway React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Demonstration project for [Payment Gateway Midtrans Backend](https://github.com/DhahikaR/Payment-gateway-ExpressJs-Backend). This project using Node Js and React Js.
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
+
+```bash
+  git clone https://github.com/DhahikaR/Payment-gateway-React
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Notes
+
+This project will be work, if [Payment Gateway Midtrans Backend](https://github.com/DhahikaR/Payment-gateway-ExpressJs-Backend)[Payment Gateway Midtrans Backend](https://github.com/DhahikaR/Payment-gateway-ExpressJs-Backend) already running.
